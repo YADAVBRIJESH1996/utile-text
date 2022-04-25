@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(232, 228, 223);
+}
+.form-check form-switch{
+    margin-left: 50%;
+}
+.form-check-input{
+    position: relative;
+    left: 70vw;
+    top: 10px;
+  
+}
+
+.form-check-label{
+    position: relative;
+    left: 70vw;
+    top: 10px;
+}
+.btn{
+margin: 10px;
+}
